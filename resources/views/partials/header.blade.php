@@ -21,7 +21,7 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="{{route('home')}}">
+            <a class="navbar-brand" href="{{route('comics')}}">
                 <img src="{{Vite::asset('resources/assets/img/dc-logo.png')}}" alt="Logo" class="d-block m-auto logo-img">
             </a>
             <div class="collapse navbar-collapse nav-list" id="navbarSupportedContent">
